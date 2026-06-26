@@ -61,12 +61,15 @@ src/
 *(Note: Capture these screenshots manually to include in your portfolio presentation)*
 
 - **Home page (Light mode)**
+![Home page (Light mode)](./homepage-lightmode.png)
 - **Home page (Dark mode)**
+![Home page (Dark mode)](./homepage-darkmode.png)
 - **Browse page with filters active**
+![Browse page](./browsepage.png)
 - **Project Details page**
-- **Mobile menu open**
+![Project Details](./project-detail.png)
 - **Bookmarks page with items**
-- **404 Not Found page**
+![Bokkmarks page](./bookmarkpage.png)
 
 ## Future Improvements
 - **Backend Integration**: Replace the simulated `projectService.js` with a real backend (e.g., Node.js/Express or Firebase).
